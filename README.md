@@ -1,7 +1,7 @@
 # GearCase UI 文档
 [![Build Status](https://www.travis-ci.org/evenyao/GearCase.svg?branch=master)](https://www.travis-ci.org/evenyao/GearCase)
 ![Cocoapods](https://img.shields.io/cocoapods/l/AFNetworking.svg)
-![GearCase](https://img.shields.io/badge/gearcase-0.2.16-orange.svg)
+![GearCase](https://img.shields.io/badge/gearcase-0.2.17-orange.svg)
 
 ## 介绍
 ![](https://img-1257191344.cos.ap-chengdu.myqcloud.com/gear.png)
